@@ -108,4 +108,4 @@ Feel free to fork and improve this project.
 
 ## 👨‍💻 Author
 
-**Saad Ali Rizvi**
+[**Saad Ali Rizvi**](https://www.linkedin.com/in/saad-ali-rizvi/)
